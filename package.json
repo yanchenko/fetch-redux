@@ -1,0 +1,8 @@
+{
+  "name": "fetch-redux",
+  "version": "0.0.7",
+  "description": "Redux middleware for making HTTP calls with Fetch.",
+  "repository": "github:yanchenko/fetch-redux",
+  "keywords": ["react", "redux", "fetch"],
+  "license": "MIT"
+}
